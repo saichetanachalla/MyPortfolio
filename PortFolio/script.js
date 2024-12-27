@@ -68,6 +68,9 @@ var typed = new Typed(".multiple-text", {
   function student() {
     open("https://github.com/saichetanachalla/studentmanagementsystem");
   }
+function deepfake() {
+    open("https://github.com/saichetanachalla/Battling-Deepfake-With-Deep-Learning/tree/main");
+  }
   function covid() {
     open("https://github.com/saichetanachalla/Covid-19-analysis-by-Topic-Modelling");
   }
